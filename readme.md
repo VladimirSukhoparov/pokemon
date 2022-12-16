@@ -1,8 +1,8 @@
-# Карточки с покемонами
+# Pokemon Cards
 ![screenshot](./readme-assets/login.png)
 
-После ввода имени появляется приветсвие
+After entering the name, a greeting appears
 ***
 
-При клике на покебол появляется рандомный покемон.
+When you click on the pokeball, a random Pokemon appears.
 ![screenshot](./readme-assets/pokemons.png)
